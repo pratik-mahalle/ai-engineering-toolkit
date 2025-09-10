@@ -88,6 +88,7 @@ A curated, list of 100+ libraries and frameworks for AI engineers building with 
 | [TruLens](https://github.com/truera/trulens) | Evaluation and tracking for LLM experiments | Python | MIT |
 | [Inspect](https://github.com/ukaisi/inspect) | Framework for large language model evaluations | Python | Apache-2.0 |
 | [UpTrain](https://github.com/uptrain-ai/uptrain) | Open-source tool to evaluate and improve LLM applications | Python | Apache-2.0 |
+| [Keploy](https://github.com/keploy/keploy) | Generate tests and mocks from real API traffic | Go | Apache-2.0 |
 
 ### Model Management
 
